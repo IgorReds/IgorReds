@@ -6,14 +6,9 @@
 - 😄 Pronouns: Ro/ck
 - 🎶 Apreciador da arte de transmitir sentimentos através de vibrações sonoras
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorReds&hide=contribs,prs"/>
-
-</div>
-
  <div>
   <a href="https://github.com/IgorReds">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorReds&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorReds&layout=compact&langs_count=16&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IgorReds&show_icons=true&bg_color=e00220&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_radius&layout=compact&hide_rank=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorReds&layout=compact&bg_color=DEG,e00220,148200,148200&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_radius"/>
 </div>
 
